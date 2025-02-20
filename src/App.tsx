@@ -1,6 +1,7 @@
 export default function App(){
-    const a=2
-    a= "hi"
+  const a:number = 2
+  console.log(a);
+  
   return <div>Hello</div>
 
 }
